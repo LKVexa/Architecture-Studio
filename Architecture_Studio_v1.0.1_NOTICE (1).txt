@@ -1,0 +1,9 @@
+Architecture Studio
+Copyright 2026 David Paul Russell
+
+Architecture Studio is distributed under the Apache License, Version 2.0.
+A copy of the license is included in the LICENSE file in this distribution.
+
+Architecture Studio is a governed, evidence-first design-time assistant. It
+produces bounded, evidence-linked candidate architectures; final architecture
+decisions and accountability remain human-owned.
